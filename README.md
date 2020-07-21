@@ -1,3 +1,4 @@
+![](https://github.com/xournalpp/xournalpp/raw/master/readme/main.png)
 # Paper-Highlights
 Highlighted and Annotated versions of papers I worked on .
 
@@ -10,3 +11,5 @@ I would want you(the reader) to add or remove your own highlights as and when re
 
 # Contribute
 - Make a PR with your .xopp file and before this , an issue ticket would be greatly appreciated.
+
+
