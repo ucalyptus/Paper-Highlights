@@ -4,7 +4,7 @@ Highlighted and Annotated versions of papers we worked on.
 
 # Collaborators
 - [Sayantan Das](https://github.com/ucalyptus/)
-- [Suraj Parmar]https://github.com/parmarsuraj99/)
+- [Suraj Parmar](https://github.com/parmarsuraj99/)
 
 | Paper Name  | PDF Link | Review Link  | Review Author |
 |---|---|---|---|
