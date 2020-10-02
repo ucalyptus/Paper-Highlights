@@ -13,6 +13,7 @@ Highlighted and Annotated versions of papers we worked on.
 | MeshRCNN | [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/MESHRCNN_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
 | Visualizing Loss Landscape| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/Visualizing%20Loss%20Landscape_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
 | PiFu| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/pifu_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
+|SimCLR| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/simclr.pdf) | [Souham Ghosh](https://github.com/Sgsouham/)|
 
 
 # Contribute
