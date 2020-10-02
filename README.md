@@ -8,7 +8,7 @@ Highlighted and Annotated versions of papers we worked on.
 - [Souham Ghosh](https://github.com/Sgsouham/)
 
 | Paper Name  | Annotated PDF Link |Review Author |
-|---|---|---|---|
+|---|---|---|
 | DETR:End to End Object Detection with Transformers| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/DETR_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
 | MeshRCNN | [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/MESHRCNN_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
 | Visualizing Loss Landscape| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/Visualizing%20Loss%20Landscape_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
