@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/ucalyptus/Paper-Highlights/master/papers.gif)
+
 # Paper-Highlights
 Highlighted and Annotated versions of papers we worked on.
 
