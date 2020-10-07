@@ -17,6 +17,7 @@ Highlighted and Annotated versions of papers we worked on.
 |SimCLR| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/simclr.pdf) | [Souham Ghosh](https://github.com/Sgsouham/)|
 |An Image is worth 16x16 words: Transformers for Images| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/an_image_is_worth_16x16_words_transformers_for_image_recognition_at_scale-pages-deleted.pdf) | [Souham Ghosh](https://github.com/Sgsouham/)|
 | VirTex: Learning Visual Representations from Textual Annotations | [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/VirTex_annotated.pdf) | [Suraj Parmar](https://github.com/parmarsuraj99/)|
+ |BYOL- Bootstrap Your Own Latent| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/BYOL.pdf)| [Souham Ghosh](https://github.com/Sgsouham/)|
 
 
 
