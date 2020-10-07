@@ -1,4 +1,3 @@
-![](https://github.com/xournalpp/xournalpp/raw/master/readme/main.png)
 # Paper-Highlights
 Highlighted and Annotated versions of papers we worked on.
 
@@ -15,6 +14,7 @@ Highlighted and Annotated versions of papers we worked on.
 | PiFu| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/pifu_up.pdf) | [Sayantan Das](https://github.com/ucalyptus/)|
 |SimCLR| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/simclr.pdf) | [Souham Ghosh](https://github.com/Sgsouham/)|
 |An Image is worth 16x16 words: Transformers for Images| [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/master/an_image_is_worth_16x16_words_transformers_for_image_recognition_at_scale-pages-deleted.pdf) | [Souham Ghosh](https://github.com/Sgsouham/)|
+| VirTex: Learning Visual Representations from Textual Annotations | [Annotated PDF Link](https://github.com/ucalyptus/Paper-Highlights/blob/parmarsuraj99-patch-1/VirTex_annotated.pdf) | [Suraj Parmar](https://github.com/parmarsuraj99/)|
 
 
 
