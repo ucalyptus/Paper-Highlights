@@ -19,6 +19,7 @@ Highlighted and Annotated versions of papers we worked on.
 | VirTex: Learning Visual Representations from Textual Annotations | [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/VirTex_annotated.pdf) | [Suraj Parmar](https://github.com/parmarsuraj99/)|
  |BYOL- Bootstrap Your Own Latent| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/BYOL.pdf)| [Souham Ghosh](https://github.com/Sgsouham/)|
  |Linformer- Self-Attention in Linear time| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/linformer.pdf)| [Souham Ghosh](https://github.com/Sgsouham/)|
+ |Attenion Free Transformer| [Annotated PDF Link](https://ucalyptus.github.io/Paper-Highlights/an_attention_free_transformer.pdf)| [Souham Ghosh](https://github.com/Sgsouham/)|
 
 
 
